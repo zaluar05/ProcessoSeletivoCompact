@@ -1,8 +1,8 @@
 import { ExternalLink, Code, Smartphone, Globe } from "lucide-react";
-import academiaBg from "../../assets/academia.jpg";
-import cristalJrBg from "../../assets/Cristal-jr.jpg";
-import criaUfmgBg from "../../assets/Cria-UFMG.jpg";
-import alquimiaBg from "../../assets/Loja-Alquimia-Skate-Shop.jpg";
+import academiaBg from "../../assets/academia-2.png";
+import cristalJrBg from "../../assets/Cristal-jr.png";
+import criaUfmgBg from "../../assets/Cria-UFMG.png";
+import alquimiaBg from "../../assets/Loja-Alquimia-Skate-Shop.png";
 
 const projects = [
   {

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Redirecionando...</title>
+  <script>
+    // Redireciona para o index.html para deixar o React Router lidar com o roteamento
+    const path = window.location.pathname.replace(/^\/ProcessoSeletivoCompact/, "");
+    window.location.replace("/ProcessoSeletivoCompact/index.html?redirect=" + encodeURIComponent(path));
+  </script>
+</head>
+<body>
+  Redirecionando...
+</body>
+</html>

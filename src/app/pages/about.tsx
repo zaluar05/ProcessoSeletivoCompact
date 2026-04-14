@@ -1,5 +1,5 @@
 import { History, Target, Users, Award, Lightbulb, Rocket } from "lucide-react";
-import equipeBg from "../../assets/equipe.jpg";
+import equipeBg from "../../assets/equipe.png";
 
 const timeline = [
   {
